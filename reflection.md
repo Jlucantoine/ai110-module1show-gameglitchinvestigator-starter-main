@@ -30,6 +30,8 @@ I asked the AI about why does in the app.py file the difficulty level for hard "
 ## 3. Debugging and testing your fixes
 
 - How did you decide whether a bug was really fixed?
+I ran the code to play and test the game to see things were fixed and also ask the Claude to run tests for different scenarios.
+
 - Describe at least one test you ran (manual or using pytest)  
   and what it showed you about your code.
 - Did AI help you design or understand any tests? How?
